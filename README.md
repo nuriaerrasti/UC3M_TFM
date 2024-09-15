@@ -2,4 +2,5 @@
 Master in Statistics for Data Science
 
 Autor: Nuria Errasti Domínguez
+
 Director: María Luz Durbán Reguera
